@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "croxy-proxy",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "croxy-proxy",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "PwaID"
+}
